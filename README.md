@@ -206,9 +206,3 @@ Jupyter Notebook
 **Hooman Soleymani**
 
 Computer Engineering — Artificial Intelligence & Robotics
-
----
-
-## License
-
-This project is released under the MIT License.
